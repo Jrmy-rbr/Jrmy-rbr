@@ -6,8 +6,8 @@ Researcher at heart I am curious of many things, and hope I can be useful for a 
 - 🔭 I’m currently working on background noise removal with tensorflow
 - 🌱 I’m currently learning diverse data science/machine learning techniques
 <!-- - 👯 I’m looking to collaborate on ...
- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about quantum mechanics/quantum info theory, probabilities, formal logic
+- 🤔 I’m looking for help with ... -->
+- 💬 Ask me about general physics, quantum mechanics/quantum info theory, probabilities, formal logic
 - ⚡ Fun fact: In milonga (tango dance party) you don't directly ask someone for a dance. You do a "cabeceo".
 - 🎮 In my free time I like to hang with my friends, cook for them, dance tango, and learn a lot of things. In
 particular I like to learn about the best ways to help others.
