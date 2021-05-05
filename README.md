@@ -4,7 +4,7 @@ Researcher at heart I am curious of many things, and hope I can be useful for a 
 
 
 - 🔭 I’m currently working on background noise removal with tensorflow
-- 🌱 I’m currently learning diverse data science/machine learning techniques
+- 🌱 I’m currently learning how sofware development works in a group.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about general physics, quantum mechanics/quantum info theory, probabilities, formal logic
