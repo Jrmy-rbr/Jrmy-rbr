@@ -3,7 +3,7 @@ I am Jeremy, I am here to deepen my knowledge about data science and make some c
 Researcher at heart I am curious of many things, and hope I can be useful for a maximum number of people.
 
 
-- 🔭 I’m currently working on background noise removal with tensorflow
+<!-- - 🔭 I’m currently working on background noise removal with tensorflow -->
 - 🌱 I’m currently learning how sofware development works in a group.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
